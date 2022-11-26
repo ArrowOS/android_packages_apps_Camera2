@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "13cd1878_f5b061ed",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 384
+      },
+      "writtenOn": "2022-11-26T10:52:42Z",
+      "side": 1,
+      "message": "Working fine on sdm660 clover and lavender",
+      "revId": "9e9f2474144a3a7a80006469e5f44f56970dfbca",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
